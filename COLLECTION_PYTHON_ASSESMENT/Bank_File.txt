@@ -1,0 +1,3 @@
+{'1020304050': {'Customer Name': 'Niyati', 'Balance': 100900, 'Opening Date': '2024-05-05 19-10-03'}}
+{'1234567890': {'Customer Name': 'nidhi', 'Balance': 9900, 'Opening Date': '2024-05-05 20-30-08'}}
+{'1122334455': {'Customer Name': 'Ruchi', 'Balance': 501000, 'Opening Date': '2024-05-05 20-51-12'}}
