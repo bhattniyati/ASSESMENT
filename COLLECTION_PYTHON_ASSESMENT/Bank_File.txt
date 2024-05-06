@@ -1,3 +1,0 @@
-Customer Added: {'123456789': {'ac_num': '123456789', 'c_name': 'Niyati', 'balance': '100000', 'Opening Date': '2024-04-16 18-34-55'}}
-Customer Added: {'102030405': {'ac_num': '102030405', 'c_name': 'Nidhi', 'balance': '50000', 'Opening Date': '2024-04-27 18-59-00'}}
-Customer Added: {'112233445': {'ac_num': '112233445', 'c_name': 'Ruchi', 'balance': '100000', 'Opening Date': '2024-04-27 19-27-51'}}
