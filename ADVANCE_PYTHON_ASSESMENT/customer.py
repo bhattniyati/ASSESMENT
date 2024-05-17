@@ -7,10 +7,6 @@ class Customer:
     mydb= pymysql.connect(host="localhost",user="root",password="",database="Banking_Application")
     mycursor= mydb.cursor()
 
-    # dunder method
-    def __init__(self):
-        self.balance=0.0
-    
     # create menu
     def Menu(self):
             print("\n\tCustomer Menu: ")
